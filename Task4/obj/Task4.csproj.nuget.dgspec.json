@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Komarov\\Нужное\\Lessson\\Lessson2\\Task4\\Task4.csproj": {}
+    "D:\\Ucheba\\Lesson2\\lesson_2\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "F:\\Komarov\\Нужное\\Lessson\\Lessson2\\Task4\\Task4.csproj": {
+    "D:\\Ucheba\\Lesson2\\lesson_2\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Komarov\\Нужное\\Lessson\\Lessson2\\Task4\\Task4.csproj",
+        "projectUniqueName": "D:\\Ucheba\\Lesson2\\lesson_2\\Task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "F:\\Komarov\\Нужное\\Lessson\\Lessson2\\Task4\\Task4.csproj",
-        "packagesPath": "C:\\Users\\komarov\\.nuget\\packages\\",
-        "outputPath": "F:\\Komarov\\Нужное\\Lessson\\Lessson2\\Task4\\obj\\",
+        "projectPath": "D:\\Ucheba\\Lesson2\\lesson_2\\Task4\\Task4.csproj",
+        "packagesPath": "C:\\Users\\Serega\\.nuget\\packages\\",
+        "outputPath": "D:\\Ucheba\\Lesson2\\lesson_2\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\komarov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Serega\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
